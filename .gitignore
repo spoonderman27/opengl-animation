@@ -1,0 +1,15 @@
+# Build output
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+bin/
+obj/
+Debug/
+Release/
+.vs/
+*.layout
+*.depend
+# Sound files (add your own)
+src/sounds/*.wav
