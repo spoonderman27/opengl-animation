@@ -8,14 +8,14 @@ A short animated fantasy film made entirely in code with C++ and OpenGL (GLUT), 
 
 ## Scenes
 
-| File | Scene |
+| File | Scenes |
 |---|---|
-| `src/scene1.cpp` | Scene 1 |
-| `src/scene2.cpp` | Scene 2 |
-| `src/scene3.cpp` | Scene 3 |
-| `src/scene4.cpp` | Scene 4 |
+| `src/scene1.cpp` | Scene 1 – The Cursed Birth |
+| `src/scene2.cpp` | Scene 2 – Growing Up Rejected |
+| `src/scene3_4.cpp` | Scenes 3 and 4 – Revelation in the Cave, Breakthrough |
+| `src/scene5_6.cpp` | Scenes 5 and 6 – Final Clash, New Dawn (my part) |
 
-Each scene is its own program with its own `main()`, and the scenes are played one after another to form the film.
+Each file is its own program with its own `main()`, and they are played one after another to form the film.
 
 ## Techniques
 
@@ -35,4 +35,4 @@ Each scene is its own program with its own `main()`, and the scenes are played o
 
 ## Team
 
-Built by a team of 5 UMS students for KP24803 Computer Graphics.
+Built by a team of 5 UMS students for KP24803 Computer Graphics. I built Scenes 5 and 6 (`src/scene5_6.cpp`): the final battle between Liang and the Evil Guardian, and the closing scene.
